@@ -6,4 +6,7 @@ public class Cat {
         this.name = name;
         this.age = age;
     }
+    public void purr() {
+        System.out.println("MEOW");
+    }
 }
