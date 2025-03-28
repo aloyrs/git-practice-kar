@@ -7,6 +7,6 @@ public class Cat {
         this.age = age;
     }
     public void purr() {
-        System.out.println("MEOW");
+        System.out.println("meow cat");
     }
 }
