@@ -7,5 +7,9 @@ public class Dog {
         this.age = age;
     }
 
+    public void bark () {
+        System.out.println("WOOF");
+    }
+
 
 }
